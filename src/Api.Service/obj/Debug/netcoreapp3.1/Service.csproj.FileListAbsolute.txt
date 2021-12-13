@@ -1,0 +1,8 @@
+C:\Dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

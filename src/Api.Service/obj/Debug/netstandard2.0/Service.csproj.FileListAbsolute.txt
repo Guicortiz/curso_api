@@ -1,0 +1,8 @@
+C:\Dev\curso_api\src\Api.Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\Dev\curso_api\src\Api.Service\bin\Debug\netstandard2.0\Service.dll
+C:\Dev\curso_api\src\Api.Service\bin\Debug\netstandard2.0\Service.pdb
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netstandard2.0\Service.dll
+C:\Dev\curso_api\src\Api.Service\obj\Debug\netstandard2.0\Service.pdb

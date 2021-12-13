@@ -1,0 +1,9 @@
+C:\Dev\curso_api\src\Api.Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Dev\curso_api\src\Api.Data\bin\Debug\netstandard2.0\Data.dll
+C:\Dev\curso_api\src\Api.Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Dev\curso_api\src\Api.Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Dev\curso_api\src\Api.Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Dev\curso_api\src\Api.Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Dev\curso_api\src\Api.Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Dev\curso_api\src\Api.Data\obj\Debug\netstandard2.0\Data.dll
+C:\Dev\curso_api\src\Api.Data\obj\Debug\netstandard2.0\Data.pdb
