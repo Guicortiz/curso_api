@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pReu8a/JuATrEhvRwvRFCjcA5+r1nzKVN1FgD+WPcqJJzMoatMSoN6heFUCNI2GWeFq3MO+fQWg0rM1NAKAdqA==",
+  "dgSpecHash": "pTbGCrDRgcJhU1rECNxWN+ogC7bNgBDNW4QoyfEZXqI2gYIXp0A1YR7Inv72F/3PL2du3bufJ82/Op/y4spPNQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
