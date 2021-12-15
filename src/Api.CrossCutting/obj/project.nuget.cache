@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Jc6p51WSgBMKV0gEhwRBDFF9Q+JuakWiNuhgNtD+x4i2adxHQ8jO2Z8P+X5w6JMJZW69g2o6Gof8s0Zw007Mg==",
+  "dgSpecHash": "u8K2fcNGaGV7Fhgrr2x4XMV3MOMPhcr2XlbGI9wzOVj73iuRH0Azykfz02DyVcxfy8Lv2O33zLDtTe39vDLgrQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
