@@ -7,10 +7,8 @@ C:\Dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreComp
 C:\Dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\Dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
 C:\dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
-C:\dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
 C:\dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
 C:\dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
 C:\dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
 C:\dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
-C:\dev\curso_api\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
 C:\dev\curso_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
