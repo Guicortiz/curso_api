@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "C:\\dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\curso_api\\src\\Api.CrossCutting\\obj\\",
+        "projectPath": "C:\\dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\IMP11\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\curso_api\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IMP11\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -25,14 +25,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj"
+              "C:\\dev\\curso_api\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\dev\\curso_api\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj"
+              "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Dev\\curso_api\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Dev\\curso_api\\src\\Api.Service\\Service.csproj"
+              "C:\\dev\\curso_api\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\dev\\curso_api\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -66,21 +66,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj": {
+    "C:\\dev\\curso_api\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\dev\\curso_api\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\curso_api\\src\\Api.Data\\obj\\",
+        "projectPath": "C:\\dev\\curso_api\\src\\Api.Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\IMP11\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\curso_api\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IMP11\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -91,8 +91,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj"
+              "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -138,21 +138,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\curso_api\\src\\Api.Domain\\obj\\",
+        "projectPath": "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\IMP11\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\curso_api\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IMP11\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -188,21 +188,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dev\\curso_api\\src\\Api.Service\\Service.csproj": {
+    "C:\\dev\\curso_api\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\curso_api\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\dev\\curso_api\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Dev\\curso_api\\src\\Api.Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\curso_api\\src\\Api.Service\\obj\\",
+        "projectPath": "C:\\dev\\curso_api\\src\\Api.Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\IMP11\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\curso_api\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IMP11\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -213,11 +213,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj"
+              "C:\\dev\\curso_api\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\dev\\curso_api\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj"
+              "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -245,7 +245,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
         }
       }
     }
