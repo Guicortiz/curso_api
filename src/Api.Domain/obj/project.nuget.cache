@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "qcyfvCtBBz1xtyU+kpvJB0/fqwCOMHNgsCkfQzNzbCzfteeMyXf8BMJYFfhGpuqpVTc3fmc9JX74lPaFkJJxVQ==",
+  "dgSpecHash": "PldpDuy5RW/vWBHWHUyonPxUORHBBYPrrTF4fRgLhkxWjqzyItwxpzzNI91xbTQC8lBh4zCyu8LzCMuFzmG+Yw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "C:\\dev\\curso_api\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.0\\microsoft.identitymodel.jsonwebtokens.6.15.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.0\\microsoft.identitymodel.logging.6.15.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.0\\microsoft.identitymodel.tokens.6.15.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.0\\system.identitymodel.tokens.jwt.6.15.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\IMP11\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\IMP11\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.0\\microsoft.identitymodel.jsonwebtokens.6.15.0.nupkg.sha512",
+    "C:\\Users\\IMP11\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.0\\microsoft.identitymodel.logging.6.15.0.nupkg.sha512",
+    "C:\\Users\\IMP11\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.0\\microsoft.identitymodel.tokens.6.15.0.nupkg.sha512",
+    "C:\\Users\\IMP11\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.0\\system.identitymodel.tokens.jwt.6.15.0.nupkg.sha512",
+    "C:\\Users\\IMP11\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
