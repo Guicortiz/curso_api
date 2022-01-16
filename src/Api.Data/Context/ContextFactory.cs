@@ -7,12 +7,12 @@ namespace Api.Data.Context
     {
         public MyContext CreateDbContext(string[] args)
         {
-            var connectionString = @"Host=localhost;
+            var connectionString = @"Server=GUICORTIZ-PC\SQLEXPRESS;
             Database=dbAPI;
-            Username=postgres;
+            User ID=sa;
             Password=12345678a";
             var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
-            optionsBuilder.UseNpgsql(connectionString);
+            optionsBuilder.UseSqlServer(connectionString);
             return new MyContext(optionsBuilder.Options);
         }
     }

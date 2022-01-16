@@ -15,7 +15,10 @@ namespace Api.CrossCutting.DependencyInjection
             serviceCollection.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
             serviceCollection.AddScoped<IUserRepository, UserImplementation>();
             serviceCollection.AddDbContext<MyContext>(
-                options => options.UseNpgsql("Host=localhost;Database=dbAPI;Username=postgres;Password=12345678a")
+                options => options.UseSqlServer(@"Server=GUICORTIZ-PC\SQLEXPRESS;
+            Database=dbAPI;
+            User ID=sa;
+            Password=12345678a")
             );
         }
     }
