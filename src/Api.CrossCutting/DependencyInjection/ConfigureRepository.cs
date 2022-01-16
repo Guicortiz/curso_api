@@ -1,3 +1,4 @@
+using System;
 using Api.Data.Context;
 using Api.Data.Implementations;
 using Api.Data.Repository;
@@ -14,9 +15,14 @@ namespace Api.CrossCutting.DependencyInjection
         {
             serviceCollection.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
             serviceCollection.AddScoped<IUserRepository, UserImplementation>();
-            serviceCollection.AddDbContext<MyContext>(
-                options => options.UseNpgsql("Host=localhost;Database=dbAPI;Username=postgres;Password=12345678a")
+
+            if (Environment.GetEnvironmentVariable("DATABASE").ToLower() == "POSTGRESQL".ToLower())
+            {
+                serviceCollection.AddDbContext<MyContext>(
+                options => options.UseNpgsql(Environment.GetEnvironmentVariable("DB_Connection"))
             );
+            }
+
         }
     }
 }
