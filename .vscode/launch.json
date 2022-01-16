@@ -21,7 +21,10 @@
                 "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
             },
             "env": {
-                "ASPNETCORE_ENVIRONMENT": "Development"
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "DB_Connection":"Host=localhost;Database=dbAPI;Username=postgres;Password=12345678a",
+                "DATABASE":"POSTGRESQL",
+                "MIGRATION":"APLICAR"
             },
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"
