@@ -21,7 +21,7 @@ jobs:
         run: dotnet restore
       - name: Build
         run: dotnet build --configuration Release --no-restore
-      - name: Test
+      - name: Test_Service
         run: dotnet test .\src\Api.Service.Test\ --no-restore --verbosity normal
-        name: Test
+        name: Test_Data
         run: dotnet test .\src\Api.Data.Test\ --no-restore --verbosity normal
