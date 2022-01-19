@@ -4659,9 +4659,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\curso_api\\src\\Api.Application\\Application.csproj",
-      "projectName": "Application",
-      "projectPath": "C:\\Dev\\curso_api\\src\\Api.Application\\Application.csproj",
+      "projectUniqueName": "C:\\Dev\\curso_api\\src\\Api.Application\\application.csproj",
+      "projectName": "application",
+      "projectPath": "C:\\Dev\\curso_api\\src\\Api.Application\\application.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
       "outputPath": "C:\\Dev\\curso_api\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
