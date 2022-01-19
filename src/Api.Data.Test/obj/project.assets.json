@@ -6333,11 +6333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\curso_api\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectUniqueName": "c:\\Dev\\curso_api\\src\\Api.Data.Test\\Api.Data.Test.csproj",
       "projectName": "Api.Data.Test",
-      "projectPath": "C:\\Dev\\curso_api\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectPath": "c:\\Dev\\curso_api\\src\\Api.Data.Test\\Api.Data.Test.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\curso_api\\src\\Api.Data.Test\\obj\\",
+      "outputPath": "c:\\Dev\\curso_api\\src\\Api.Data.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6351,14 +6351,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "c:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "c:\\Dev\\curso_api\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "C:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj"
+            "c:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "c:\\Dev\\curso_api\\src\\Api.Data\\Data.csproj"
             },
-            "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj"
+            "c:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "c:\\Dev\\curso_api\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }
