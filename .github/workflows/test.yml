@@ -1,7 +1,6 @@
 name: dotnet package
 
-on: pull_request:
-    types: [opened, reopened]
+on: [push]
 
 jobs:
   build:
