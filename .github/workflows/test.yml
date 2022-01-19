@@ -17,7 +17,7 @@ jobs:
         with:
           dotnet-version: ${{ matrix.dotnet-version }}
       - name: Install dependencies
-        run: dotnet restore \src\ 
+        run: dotnet restore \src\ -p:RestoreUseSkipNonexistentTargets=false
       - name: Build
         run: dotnet build \src\ --configuration Release --no-restore
       - name: Test_Service
