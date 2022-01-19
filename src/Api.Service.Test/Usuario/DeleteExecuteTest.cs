@@ -27,6 +27,7 @@ namespace Api.Service.Test.Usuario
 
             result = await _service.Delete(IdUsuario);
             Assert.False(result);
+            Assert.NotNull(result);
         }
     }
 }
