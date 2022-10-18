@@ -18,8 +18,8 @@ namespace Api.Data.Context
                 new UserEntity
                 {
                     Id = Guid.NewGuid(),
-                    Name = "Administrador",
-                    Email = "guicortiz@gmail.com",
+                    Name = "Luan Brito",
+                    Email = "luanbrito@gmail.com",
                     CreateAt = DateTime.Now,
                     UpdateAt = DateTime.Now,
                 }
