@@ -8,7 +8,7 @@ namespace Api.Data.Context
     {
         public MyContext CreateDbContext(string[] args)
         {
-            var connectionString = Environment.GetEnvironmentVariable("DB_Connection");
+            var connectionString = Environment.GetEnvironmentVariable("DB_Connection_Luan");
             var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
             optionsBuilder.UseNpgsql(connectionString);
             return new MyContext(optionsBuilder.Options);
